@@ -5,8 +5,8 @@ import java.io.PrintWriter;
 /**
  * Experiments with merge sort.
  *
- * @author YourName Here
- * @author Your NameHere
+ * @author Alexander Maret
+ * @author Shibam Mukhopadhyay
  * @author Samuel A. Rebelsky
  */
 public class MergeSortExperiments {
